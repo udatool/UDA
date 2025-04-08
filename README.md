@@ -33,3 +33,13 @@ Download `model_saved.zip` [baidu drive](https://pan.baidu.com/s/1pjWbzjSQJJq7a-
 unzip model_saved.zip
 ```
 
+You can also access the model weights via Hugging Face:
+
+- [uda_function](https://huggingface.co/xunge/uda_function)  
+- [uda_instruction](https://huggingface.co/xunge/uda_instruction)  
+- [uda_pretrain](https://huggingface.co/xunge/uda_pretrain)
+
+## Dataset
+
+The download links for the dataset mentioned in the paper are provided on [Google Drive](https://drive.google.com/file/d/1XhQJzc-WHY1_n11xB3RMXrwWlFCY0K6b/view) and [Baidu Drive](https://pan.baidu.com/s/1eMLo5ZOu6TJADhTLJVrE0g?pwd=1c2e).
+
